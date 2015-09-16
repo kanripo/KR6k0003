@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:39:18.298451
+#+DATE: 2015-08-30 20:39:19.136360
 #+TITLE: 五分戒本
 #+PROPERTY: CBETA_ID T22n1422b
 #+PROPERTY: ID KR6k0003
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 22, No. 1422b
 #+PROPERTY: VOL 22
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6k0003_T_000-0200b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6k0003_T_001-0200b> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-
- 《五分戒本》(亦名彌沙塞戒本)¶
+《五分戒本》(亦名彌沙塞戒本)¶
 ¶
 宋罽賓三藏佛陀什等譯¶
 
@@ -357,7 +356,7 @@
 
 若比丘數數食。波夜提¶
 若比丘有餘福德處。過一食。波夜提¶
-若比丘往白衣家。自恣與餅[麩-夫+少]。得取一鉢。¶
+若比丘往白衣家。自恣與[麩-夫+并][麩-夫+少]。得取一鉢。¶
 過者。波夜提。¶
 
 若比丘不受殘食法。更食者。波夜提¶
